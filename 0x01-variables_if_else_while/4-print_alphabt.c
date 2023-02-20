@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 /**
  * main - Prints the alphabet except the letters q and e.
 (*
@@ -18,4 +18,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
+}
